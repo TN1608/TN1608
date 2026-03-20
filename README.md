@@ -21,7 +21,6 @@ I'm passionate about crafting **immersive, high-performance UIs** with smooth an
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Shadcn/UI" /></a> <!-- Shadcn dùng icon MUI tạm, hoặc thay link -->
-  <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/antdesign-colored.svg" width="36" height="36" alt="Ant Design" /></a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap.svg" width="36" height="36" alt="GSAP" /></a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="36" height="36" alt="Framer Motion" /></a>
 </p>
