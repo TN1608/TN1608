@@ -19,8 +19,6 @@ Hands-on experience building production AI Chatbots (Gemini API), optimizing per
 ### 📥 Download My CV
 [![Download CV](https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://raw.githubusercontent.com/TN1608/TN1608/main/FullStack_CV_NguyenDinhTuan.pdf)
 
-> **Hướng dẫn**: Upload file `FullStack_CV_NguyenDinhTuan.pdf` vào repo GitHub của bạn (repo chính là TN1608 nếu bạn dùng profile README). Link sẽ tự hoạt động. Nếu repo tên khác, sửa phần `TN1608/TN1608` cho đúng.
-
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
